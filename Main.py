@@ -1,3 +1,4 @@
+
 class BinaryTreeNode:
     def __init__(self, data):
         self.data = data
@@ -40,3 +41,42 @@ inorder(root)
 print()
 preorder(root)
 print()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
